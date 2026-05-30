@@ -5,6 +5,8 @@
 ![CSS Valid](https://img.shields.io/badge/CSS%20Valid-green?style=flat-square)
 ![Deployed](https://img.shields.io/badge/GitHub%20Pages-LIVE-blueviolet?style=flat-square)
 
+> **Version 2** — This is an updated redesign of the original Future Technology webpage, featuring a modern dark, futuristic theme with glowing cyan accents. The visual refresh was built with [Cursor](https://cursor.com), the AI-powered code editor.
+
 This webpage is for those who are excited about the possibilities of future technologies.
 
 Originally created as a project for a course, it has now been refined into a clean, responsive, and accessible layout that mimics the structure of a research paper using only HTML and CSS — with helpful collaboration and improvements guided by Code Copilot.
