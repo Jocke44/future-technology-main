@@ -12,7 +12,7 @@ This webpage is for those who are excited about the possibilities of future tech
 Originally created as a project for a course, it has now been refined into a clean, responsive, and accessible layout that mimics the structure of a research paper using only HTML and CSS — with helpful collaboration and improvements guided by Code Copilot.
 
 ![alt text](/assets/images/responsive.png)
-Mockup: http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology/
+Mockup: http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology-main/
 
 ---
 
@@ -62,7 +62,7 @@ Deployed to GitHub Pages:
 - Navigate to GitHub repo > Settings
 - Under Code and Automation > Pages
 - Ensure Source is set to `main` branch
-- Access live site at: https://jocke44.github.io/future-technology/
+- Access live site at: https://jocke44.github.io/future-technology-main/
 
 ---
 
